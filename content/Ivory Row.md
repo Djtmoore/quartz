@@ -1,0 +1,1 @@
+Someone in Ivory Row has an interest in the [[God of Secrets]]

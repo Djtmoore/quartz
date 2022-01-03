@@ -1,0 +1,1 @@
+While Sliver Tech is normally a strange arcane art from the Drow Homelands (and, if illegal, not unheard of), these implants have been modified by Alfar hands, and implanted by [[Betel Ice Flower]].

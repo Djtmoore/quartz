@@ -1,0 +1,1 @@
+Normally self-managing by three major crime syndicates, recent troubles will no doubt bring the attention of [[Spire Authorities]].  The most likely place to move forces from would be [[Ivory Row]].
