@@ -15,9 +15,9 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gard
 6. Automatically generated tag and section lists of content
 
 ## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+> 📚 [Setup your own digital garden using Quartz](private/notes/setup.md)
 
-Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](private/notes/philosophy.md) to begin with!
 
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
@@ -26,5 +26,5 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - [Setup-related Notes](/tags/setup)
 
 ## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
+- 🚧 [Troubleshooting and FAQ](private/notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)

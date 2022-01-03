@@ -10,7 +10,7 @@ Quartz is designed to be effortless to deploy. If you forked and cloned Quartz d
 ### Enable GitHub Actions
 By default, GitHub disables workflows from running automatically on Forked Repostories. Head to the 'Actions' tab of your forked repository and Enable Workflows to setup deploying your Quartz site!
 
-![Enable GitHub Actions](/notes/images/github-actions.png)*Enable GitHub Actions*
+![Enable GitHub Actions](private/notes/images/github-actions.png)*Enable GitHub Actions*
 
 ### Enable GitHub Pages
 
@@ -19,7 +19,7 @@ Head to the 'Settings' tab of your forked repository and go to the 'Pages' tab.
 1. Set the source to deploy from `master` using `/ (root)`
 2. Set a custom domain here if you have one!
 
-![Enable GitHub Pages](/notes/images/github-pages.png)*Enable GitHub Pages*
+![Enable GitHub Pages](private/notes/images/github-pages.png)*Enable GitHub Pages*
 
 ### Pushing Changes
 To see your changes on the internet, we need to push it them to GitHub. Quartz is essentially a `git` repository so updating it is the same workflow as you would follow as normal.
@@ -77,7 +77,7 @@ GitHub has some [documentation on this](https://docs.github.com/en/pages/configu
 1. Go to your forked repository (`github.com/<YOUR-GITHUB-USERNAME>/quartz`) settings page and go to the Pages tab. Under "Custom domain", type your custom domain, then click **Save**.
 2. Go to your DNS Provider and create a CNAME record that points from your domain to `<YOUR-GITHUB-USERNAME.github.io.` (yes, with the trailing period).
 
-	![Example Configuration for Quartz](/notes/images/google-domains.png)*Example Configuration for Quartz*
+	![Example Configuration for Quartz](private/notes/images/google-domains.png)*Example Configuration for Quartz*
 3. Wait 30 minutes to an hour for the network changes to kick in.
 4. Done!
 
@@ -88,6 +88,6 @@ Don't want to use GitHub Pages? Hugo builds everything for you! Everything is a 
 
 Now that your Quartz is live, let's figure out how to make Quartz really *yours*!
 
-🎨 [Customizing Quartz](notes/config.md)
+🎨 [Customizing Quartz](private/notes/config.md)
 
-Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
+Having problems? Checkout our [FAQ and Troubleshooting guide](private/notes/troubleshooting.md).
